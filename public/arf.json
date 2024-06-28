@@ -1037,7 +1037,7 @@
       {
         "name": "Google Trends",
         "type": "url",
-        "url": "https://www.google.com/trends/"
+        "url": "https://www./trends/"
       },
       {
         "name": "Reddit (M)",
@@ -1182,7 +1182,7 @@
       {
         "name": "Google",
         "type": "url",
-        "url": "https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en"
+        "url": "https://safebrowsing./safebrowsing/report_phish/?hl=en"
       }],
       "name": "Report Malicious Sites",
       "type": "folder"
@@ -1576,7 +1576,7 @@
         {
           "name": "Google Images",
           "type": "url",
-          "url": "https://images.google.com/?gws_rd=ssl"
+          "url": "https://images./?gws_rd=ssl"
         },
         {
           "name": "Bing Images",
@@ -1666,7 +1666,7 @@
         {
           "name": "RevEye Reverse Image Search (T)",
           "type": "url",
-          "url": "https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en"
+          "url": "https://chrome./webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en"
         },
         {
           "name": "SmugMug Search",
@@ -4233,6 +4233,21 @@
         "name": "DuckDuckGo",
         "type": "url",
         "url": "https://duckduckgo.com/"
+      },
+      {
+        "name": "Brave",
+        "type": "url",
+        "url": "https://search.brave.com/"
+      },
+      {
+        "name": "Stract",
+        "type": "url",
+        "url": "https://stract.com/"
+      },
+      {
+        "name": "Swisscows",
+        "type": "url",
+        "url": "https://swisscows.com/"
       },
       {
         "name": "Yahoo Advanced Web Search",
